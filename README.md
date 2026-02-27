@@ -1,2 +1,2 @@
 # demo_02
-AIML cllass
+AIML class
